@@ -1,0 +1,14 @@
+{
+    "data_type": ["mut_important", "cnv_del", "cnv_amp"],
+    "drop_AR": false,
+    "cnv_levels": 3,
+    "mut_binary": true,
+    "balanced_data": false,
+    "combine_type": "union", 
+    "use_coding_genes_only": true,
+    "selected_genes": "genes4prostate_cancer_2layer.csv",
+    "processed_dir": "data/structured/prad/processed",
+    "splits_dir": "data/structured/prad/splits",
+    "training_split": 0,
+    "validset_divide": true
+}

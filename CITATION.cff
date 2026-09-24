@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use KEPPNet, please cite the accompanying manuscript."
+title: "KEPPNet: A Knowledge-Enhanced Pathway--Protein Network with Biomedical Semantic Augmentation for Genomics-Based Primary-versus-Metastatic Cancer Classification"
+type: software
+authors:
+  - family-names: Peng
+    given-names: Peng
+  - family-names: Guo
+    given-names: Wenjia
+  - family-names: Sun
+    given-names: Gang
+  - family-names: He
+    given-names: Liang
+repository-code: "https://github.com/qaz5435/KEPPNet-code"
+license: MIT
+date-released: 2026-09-23

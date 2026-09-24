@@ -1,0 +1,12 @@
+{
+    "random_seed": 2024,
+    "use_gpu": true,
+    "gpu_id": null,
+    "reproducibility": false,
+    "load_best_config": false,
+    "debug": false,
+    "save_train": false,
+    "save_res": true,
+    "interpretability": true,
+    "state": "info"
+}
